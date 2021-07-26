@@ -1,3 +1,11 @@
+.container {
+  margin: 20px;
+}
+
+.header {
+  display: contents;
+}
+
 .chatbot-iframe {
   position: absolute;
   bottom: 20px;
